@@ -1,7 +1,5 @@
-# [naturalogy on GitHub Pages](https://naturalogy.github.io/)
+# [naturalogy](https://naturalogy.github.io/)
 
-A static web page of [naturalogy](https://naturalogy.net/) on GitHub Pages.
+I am Sean Sakamoto aka [naturalogy](https://naturalogy.net/).
 
 * [GitHub](https://github.com/naturalogy)
-* [Facebook](https://www.facebook.com/naturalogy.japan)
-* [Twitter (@naturalogy)](https://twitter.com/naturalogy)

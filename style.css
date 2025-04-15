@@ -1,1 +1,30 @@
-html,body{height:100%}body{font:400 16px/1.8 "Noto Sans JP";letter-spacing:-0.05rem}a{color:#217f8e;transition:.15s}a:hover{color:#12444c;text-decoration:none}#page{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column;min-height:100vh}#page main{display:-webkit-flex;display:flex;-webkit-flex-grow:1;flex-grow:1;-webkit-align-items:center;align-items:center}#page main>section{width:100vw;text-align:center}#page main>section h1{max-width:20rem;margin:0 auto 2rem}#page main>section .lead{font:700 3rem/1.25 "Noto Serif JP";margin-bottom:3rem}#page footer{font-size:.875rem;text-align:center}
+:root {
+  --bs-body-line-height: 1.75;
+  --bs-font-sans-serif: "Inter", sans-serif;
+}
+
+.homemade-apple {
+  font-family: "Homemade Apple", cursive;
+}
+
+.vstack {
+  >* {
+    margin-block: 0;
+  }
+}
+
+.hstack {
+  >* {
+    margin-inline: 0;
+  }
+}
+
+.form-control,
+.form-check,
+.form-select {
+  --bs-border-color: var(--bs-gray-500);
+
+  &::placeholder {
+    color: var(--bs-gray-400);
+  }
+}
