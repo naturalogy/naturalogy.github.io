@@ -3,18 +3,18 @@
   --bs-font-sans-serif: "Inter", sans-serif;
 }
 
-.homemade-apple {
-  font-family: "Homemade Apple", cursive;
+.ephesis {
+  font-family: "Ephesis", cursive;
 }
 
 .vstack {
-  >* {
+  > * {
     margin-block: 0;
   }
 }
 
 .hstack {
-  >* {
+  > * {
     margin-inline: 0;
   }
 }
