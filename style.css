@@ -7,6 +7,14 @@
   font-family: "Ephesis", cursive;
 }
 
+.noto-serif {
+  font-family: "Noto Serif", serif;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
 .vstack {
   > * {
     margin-block: 0;
