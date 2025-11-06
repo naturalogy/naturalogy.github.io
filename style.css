@@ -15,24 +15,26 @@ h1 {
   font-size: 3.5rem;
 }
 
-.vstack {
-  > * {
-    margin-block: 0;
-  }
+/* Stack utilities (converted from SCSS nesting to plain CSS) */
+.vstack > * {
+  margin-block: 0;
 }
 
-.hstack {
-  > * {
-    margin-inline: 0;
-  }
+.hstack > * {
+  margin-inline: 0;
 }
 
+/* Form element variables and placeholder styling */
 .form-control,
 .form-check,
 .form-select {
   --bs-border-color: var(--bs-gray-500);
-
-  &::placeholder {
-    color: var(--bs-gray-400);
-  }
 }
+
+.form-control::placeholder,
+.form-select::placeholder {
+  color: var(--bs-gray-400);
+}
+
+/* Note: .form-check typically contains check inputs/labels; placeholder pseudo-element
+   doesn't apply to checkboxes, so only form-control/form-select are targeted above. */
