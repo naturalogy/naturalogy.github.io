@@ -8,7 +8,7 @@
 }
 
 .noto-serif {
-  font-family: "Noto Serif", serif;
+  font-family: "Noto Serif JP", serif;
 }
 
 h1 {
@@ -35,6 +35,3 @@ h1 {
 .form-select::placeholder {
   color: var(--bs-gray-400);
 }
-
-/* Note: .form-check typically contains check inputs/labels; placeholder pseudo-element
-   doesn't apply to checkboxes, so only form-control/form-select are targeted above. */
