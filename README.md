@@ -1,5 +1,5 @@
 # [naturalogy](https://naturalogy.github.io/)
 
-I am Sean Sakamoto aka [naturalogy](https://naturalogy.net/).
+Yes, I am Sean Sakamoto. No, not James Bond.
 
-* [GitHub](https://github.com/naturalogy)
+- [GitHub](https://github.com/naturalogy)
