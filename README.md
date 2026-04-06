@@ -1,5 +1,5 @@
 # [naturalogy](https://naturalogy.github.io/)
 
-Yes, I am Sean Sakamoto. No, not James Bond.
+Designer, front-end developer, musician and photographer based in Fukuoka, Japan.
 
 - [GitHub](https://github.com/naturalogy)
